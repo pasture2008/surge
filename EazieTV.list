@@ -12,5 +12,6 @@ DOMAIN-SUFFIX,dce-frontoffice.imggaming.com
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,pndsn.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
 USER-AGENT,Eazie+*
 PROCESS-NAME,tv.eazie
