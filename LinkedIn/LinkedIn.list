@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
+IP-CIDR,52.130.75.155/32,no-resolve
